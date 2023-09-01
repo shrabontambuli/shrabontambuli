@@ -1,4 +1,4 @@
-![logo](https://github.com/shrabontambuli/Shrabon_Tambuli/blob/main/Shrabon%20Tambuli.png)
+![logo](https://github.com/shrabontambuli/shrabontambuli/blob/main/Shrabon%20Tambuli.png)
 <h1 align="center">Hi 👋, I'm Shrabon Tambuli.</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
