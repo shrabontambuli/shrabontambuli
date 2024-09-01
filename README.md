@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrabontambuli&label=Profile%20views&color=0e75b6&style=flat" alt="shrabontambuli" /> </p>
 
-- 🔭 I’m currently working on [Info-Nexus](https://infonexus.netlify.app/?fbclid=IwAR3dpNTSFFRBNYg7WrLCjO8Ubd8g6VyetRWC1_r8hhqjZiVyy6cgZKog2Z0)
+- 🔭 I’m currently working on [Rokomari](https://rokomari-rouge.vercel.app/)
 
 - 🌱 I’m currently learning **Next JS And Redux Toolkit**
 
